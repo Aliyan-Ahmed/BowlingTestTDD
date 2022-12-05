@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8cad6f8-90ab-4a38-ad3d-884886053121": {
+      "ProjectGuid": "b8cad6f8-90ab-4a38-ad3d-884886053121",
+      "DisplayName": "BowllingTest",
+      "ColorIndex": 0
+    },
+    "f9d8a534-2190-4723-b04b-6d9fa3c2fe88": {
+      "ProjectGuid": "f9d8a534-2190-4723-b04b-6d9fa3c2fe88",
+      "DisplayName": "BowlingGame",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,6 @@
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\BowllingTest\BowlingGame\bin\Debug\BowlingGame.dll
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\BowllingTest\BowlingGame\bin\Debug\BowlingGame.pdb
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\BowllingTest\BowlingGame\obj\Debug\BowlingGame.csproj.AssemblyReference.cache
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\BowllingTest\BowlingGame\obj\Debug\BowlingGame.csproj.CoreCompileInputs.cache
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\BowllingTest\BowlingGame\obj\Debug\BowlingGame.dll
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\BowllingTest\BowlingGame\obj\Debug\BowlingGame.pdb
